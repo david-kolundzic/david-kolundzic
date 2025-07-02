@@ -42,8 +42,10 @@ These backend skills still shape my frontend mindset, especially in how I struct
 
 ### 🌐 bathroombrands.com – Official Company Website
 
-As a full-time Web Programmer at **Bathroom Brands IT**, I independently developed the company’s official landing page:  
-🔗 [bathroombrands.com](https://bathroombrands.com)
+As part of my role at **Bathroom Brands IT**, I developed the company's official landing page  
+🔗 [bathroombrands.com](https://bathroombrands.com),  
+in close collaboration with the **marketing and design teams** to align the implementation with brand identity and user expectations.
+
 
 - Built entirely as a **static Angular application**, optimized for speed, responsiveness and clarity  
 - Implemented a modern layout with brand showcases and smooth **hover-based dropdown navigation**  
