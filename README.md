@@ -1,8 +1,8 @@
 # 👋 Hi, I'm David Kolundžić
 
 🚀 Frontend Developer with a passion for building modular and scalable web applications.  
-💡 Working primarily with **Angular**, **TypeScript**, **Bootstrap 5**, and **RxJS**, while exploring **Angular Signals** and **Storybook** for component-driven UI.  
-🎯 Currently building a **business dashboard app** and a **UI component library** as part of my personal portfolio.
+💡 Working primarily with **Angular**, **TypeScript**, **RxJS**, **Bootstrap 5**, and **SCSS**, while exploring **Angular Signals**, **Storybook**, and component architecture.  
+🎯 Currently building a **business dashboard app**, a **UI component library**, and contributing to both public-facing and internal tools at my company.
 
 ---
 
@@ -13,15 +13,15 @@ A responsive, enterprise-style dashboard with reusable UI components, reactive f
 🔗 [View project](https://github.com/david-kolundzic/business-dashboard)
 
 ### 🎨 UI Component Library
-Standalone Storybook project documenting custom UI components used across apps.  
-🔗 [Coming soon]
+Standalone Storybook project documenting custom Angular components (cards, buttons, tables, etc).  
+🔗 Coming soon
 
 ---
 
 ## 💼 Skills
 
-`Angular` · `TypeScript` · `RxJS` · `Bootstrap 5` · `Angular Signals`  
-`HTML5` · `SCSS` · `Git` · `Storybook` · `.NET Core (basic)` · `GitHub`
+`Angular` · `TypeScript` · `RxJS` · `Angular Signals` · `SCSS` · `Bootstrap 5`  
+`HTML5` · `Git` · `Storybook` · `.NET MVC` · `Entity Framework` · `GitHub`
 
 ---
 
@@ -29,24 +29,50 @@ Standalone Storybook project documenting custom UI components used across apps.
 
 Previously worked on enterprise-grade web applications using **ASP.NET MVC (v5)** with **Razor view engine**, focusing on:
 
-- Clean templating using `Layouts`, `Partial Views`, and strongly typed `ViewModels`
-- Backend logic in **C#**, with data access via **Entity Framework** and **LINQ**
-- Authentication, form validation, and MVC routing
-- Building modular and reusable Razor-based UI blocks
+- Templated UI development using `Layouts`, `Partial Views`, and strongly typed `ViewModels`  
+- Backend logic in **C#**, data access via **Entity Framework** and **LINQ**  
+- Authenticated systems with MVC routing, validation and form handling  
+- Clean separation of concerns and reusable component design
 
-This experience has shaped the way I design scalable and maintainable frontend architectures in Angular today.
+These backend skills still shape my frontend mindset, especially in how I structure and scale Angular projects today.
+
+---
+
+## 🏢 Real-World Projects
+
+### 🌐 bathroombrands.com – Official Company Website
+
+As a full-time Web Programmer at **Bathroom Brands IT**, I independently developed the company’s official landing page:  
+🔗 [bathroombrands.com](https://bathroombrands.com)
+
+- Built entirely as a **static Angular application**, optimized for speed, responsiveness and clarity  
+- Implemented a modern layout with brand showcases and smooth **hover-based dropdown navigation**  
+- Focused on accessibility and semantic structure  
+- Collaborated closely with stakeholders and brand managers  
+- Ensured fast load performance and SEO-friendly structure
+
+### 🛠 Internal Business Application (Intranet)
+
+Alongside public-facing projects, I’m also actively working on the company’s **internal business application** (not publicly accessible).  
+
+- 👨‍💻 Lead frontend developer using **Angular + RxJS + SCSS**  
+- 🧠 Implementing dashboards, forms, filtering interfaces and data grids  
+- 🔄 Integrated frontend with .NET MVC backend (C#, EF, REST APIs)  
+- 🛡️ Authenticated system for internal users only — enterprise-focused
+
+> *Due to confidentiality, this project is not publicly available, but demonstrates my full-stack experience in a real production environment.*
 
 ---
 
 ## 🌍 Relocation & Availability
 
-📍 Currently based in **Zagreb, Croatia**  
-🚚 Actively preparing for **relocation to Austria** (Beč, Linz, Salzburg)  
-💼 Open to **on-site, hybrid, or fully remote** roles across the EU
+📍 Based in **Zagreb, Croatia**  
+🚚 Preparing for relocation to **Austria** (Beč, Linz, Salzburg)  
+💼 Open to **remote**, **hybrid**, or **on-site** roles across the EU
 
 ---
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/david-kolundzic](www.linkedin.com/in/david-kolundzic-76b2b51b4)  
+- LinkedIn: [linkedin.com/in/david-kolundzic](https://linkedin.com/in/david-kolundzic)  
 - Email: [david-kolundzic@outlook.com](mailto:david-kolundzic@outlook.com)
